@@ -10,6 +10,7 @@
 
 var str = "It iS A Nice Day. "
 var string=  str.toLowerCase()
+// this is the correct function so I will give you a bit of partial credit
 console.log(string)
 
 
